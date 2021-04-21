@@ -1,22 +1,21 @@
-#include "DHT.h"
+
 #include "MoistCheck.h"
-#include "DhtSensor.h"
-DHT dht(DHTPIN, DHTTYPE);
+const int Relay = 13;
+
 void setup()
 {
+  pinMode(Relay, OUTPUT);
 
-  pinMode(13, OUTPUT);
-  pinMode(7, INPUT);
-  pinMode(9, OUTPUT);
   Serial.begin(115200);
-  dht.begin();
   delay(1000);
+
 
 }
 
 void loop()
 {
-  MoistCheck();
- // DhtSensor();
+  MoistCheck(Relay);
+
+  // DhtSensor();
 
 }
