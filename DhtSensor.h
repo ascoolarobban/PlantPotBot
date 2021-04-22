@@ -10,7 +10,7 @@ void DhtSensor()
   Serial.println();
   Serial.println("Status\tHumidity (%)\tTemperature (C)\t(F)\tHeatIndex (C)\t(F)");
 
-  dht.setup(DHTpin, DHTesp::DHT11); //for DHT11 Connect DHT sensor to GPIO 17
+  dht.setup(DHTpin, DHTesp::DHT11); 
 
   delay(dht.getMinimumSamplingPeriod());
 

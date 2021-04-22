@@ -62,9 +62,4 @@ void loop()
     client.publish(mqttMoist, "WET");
   }
 
-
-  //MoistCheck(Relay, mqttMoist);
-
-  //DhtSensor();
-
 }
