@@ -2,7 +2,9 @@
 
 const int RELAY_PIN = 13;
 const int incomming = 5;
-
+int counter = 0;
+int minute = 60000;
+int hour = 60 * minute;
 
 
 void setup() {
@@ -16,11 +18,22 @@ void setup() {
 
 
 void loop() {
-  
-  if(digitalRead(incomming)) {
-      digitalWrite(RELAY_PIN, HIGH); // turn on pump 5 seconds
-      delay(15000);
-      digitalWrite(RELAY_PIN, LOW);  // turn off pump 5 seconds
-      
+
+
+  if (digitalRead(incomming)) {
+    Serial.println("incomming");
+    Serial.println(counter);
+    counter +=1;
+    if (counter <= 3) {
+      digitalWrite(RELAY_PIN, HIGH);
+      delay(30000);
+      digitalWrite(RELAY_PIN, LOW);
+    }
+    else {
+      delay(hour * 5);
+      counter = 0;
+    }
+
+
   }
 }
