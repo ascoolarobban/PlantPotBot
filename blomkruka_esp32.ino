@@ -39,41 +39,26 @@ void setup()
 }
 void setStatus(int newStatus) {
   if (oldStatus != newStatus) {
-    Serial.println("old: ");
-    Serial.println(oldStatus);
-    Serial.println("New: ");
-    Serial.println(newStatus);
     oldStatus = newStatus;
-    Serial.println("AFTER SWITCH");
-    Serial.println("old: ");
-    Serial.println(oldStatus);
-    Serial.println("New: ");
-    Serial.println(newStatus);
-    delay(5000);
-
-
 
     if (oldStatus == 1) {
 
       Serial.println("case 1 DRY");
-      client.publish(mqttMoist, "DRY");
       delay(500);
       client.publish(mqttMoist, String (moistPercent).c_str(), true);
-      delay(5000);
+      delay(500);
     }
     else if (oldStatus == 2)
     {
 
       Serial.println("case 2 Moist");
-      client.publish(mqttMoist, "MOIST");
       delay(500);
       client.publish(mqttMoist, String (moistPercent).c_str(), true);
-      delay(5000);
+      delay(500);
     }
 
     else if (oldStatus == 3) {
       Serial.println("case 3 Wet");
-      client.publish(mqttMoist, "WET");
       delay(500);
       client.publish(mqttMoist, String (moistPercent).c_str(), true);
     }
@@ -122,7 +107,7 @@ void loop()
     newStatus = 3;
     setStatus(newStatus);
     digitalWrite(Relay, LOW);
-    
+
     Serial.println("WET");
     Serial.print(moistPercent);
     Serial.println("%");
