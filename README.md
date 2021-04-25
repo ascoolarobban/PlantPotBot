@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://example.com/">
-    <img src="https://via.placeholder.com/72" alt="Logo" width=72 height=72>
+    <img src="https://www.vectorstock.com/royalty-free-vector/plant-seed-organic-green-logo-vector-20097720" alt="Logo" width=72 height=72>
   </a>
 
   <h3 align="center">Logo</h3>
