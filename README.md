@@ -29,11 +29,12 @@
 
 ## Quick start
 
-Some text
+The project consists of:
 
-- Instruction 1
-- Instruction 2
-- Instruction 3
+- Esp32.ino
+- Arduino.ino
+- esp8266.ino
+-raspberry pi zero w (MQTT)
 
 ## Status
 
@@ -62,9 +63,9 @@ Have a bug or a feature request? Please first read the [issue guidelines](https:
 
 Please read through our [contributing guidelines](https://reponame/blob/master/CONTRIBUTING.md). Included are directions for opening issues, coding standards, and notes on development.
 
-Moreover, all HTML and CSS should conform to the [Code Guide](https://github.com/mdo/code-guide), maintained by [Main author](https://github.com/usernamemainauthor).
+Moreover, all HTML and CSS should conform to the [Code Guide](https://github.com/mdo/code-guide), maintained by [Main author](https://github.com/ascoolarobban).
 
-Editor preferences are available in the [editor config](https://reponame/blob/master/.editorconfig) for easy use in common text editors. Read more and download plugins at <https://editorconfig.org/>.
+
 
 ## Creators
 
@@ -81,4 +82,4 @@ https://github.com/Conhan93
 
 Code and documentation copyright 2021 the authors. Code released under the [MIT License](https://github.com/ascoolarobban/Blomkruka_Esp32/blob/main/LICENSE.md).
 
-Enjoy :plant:
+Enjoy :metal:
