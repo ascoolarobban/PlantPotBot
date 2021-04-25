@@ -3,7 +3,7 @@
     <img src="https://i.pinimg.com/originals/7c/15/82/7c1582391275341006bc9f00bb44efb5.png" width=72 height=72>
   </a>
 
-  <h3 align="center">Logo</h3>
+  <h3 align="center">PlantPotBot</h3>
 
   <p align="center">
     Short description
