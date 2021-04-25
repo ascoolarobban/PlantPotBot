@@ -79,6 +79,6 @@ https://github.com/Conhan93
 
 ## Copyright and license
 
-Code and documentation copyright 2011-2018 the authors. Code released under the [MIT License](https://reponame/blob/master/LICENSE).
+Code and documentation copyright 2021 the authors. Code released under the [MIT License](https://github.com/ascoolarobban/Blomkruka_Esp32/blob/main/LICENSE.md).
 
-Enjoy :metal:
+Enjoy :plant:
