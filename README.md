@@ -6,7 +6,7 @@
   <h3 align="center">PlantPotBot</h3>
 
   <p align="center">
-    Short description
+    Self watering tweeting plant.
     <br>
     <a href="https://reponame/issues/new?template=bug.md">Report bug</a>
     ·
