@@ -59,11 +59,10 @@ FlowerPotBot/
 
 ## Bugs and feature requests
 
-Have a bug or a feature request? Please first read the [issue guidelines](https://flowerpotbot/blob/master/CONTRIBUTING.md) and search for existing and closed issues. If your problem or idea is not addressed yet, [please open a new issue](https://reponame/issues/new).
+Have a bug or a feature request? DM
 
 ## Contributing
-
-All HTML and CSS should conform to the [Code Guide](https://github.com/mdo/code-guide), maintained by [Main author](https://github.com/ascoolarobban).
+Just HMU
 
 
 
