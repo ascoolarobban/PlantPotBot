@@ -28,9 +28,9 @@
 
 
 ## About
+A self watering flower pot, with status updates via MQTT, channeled to Twitter/Discord/LinkedIn.
 
 The project consists of:
-
 - Esp32
 - Arduino uno
 - esp8266
