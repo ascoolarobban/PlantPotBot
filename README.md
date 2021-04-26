@@ -48,12 +48,13 @@ Some text
 FlowerPotBot/
 └── FlowerPotBot/
     ├── blomkruka_esp32.ino
-    ├── blomkruka_esp32.ino
-    ├── blomkruka_esp32.ino       
+    ├── DhtSensr.h
+    ├── MoistCheck.h       
+    ├── wifiConnect.h           
     │    
     │   
     └── Arduino_Relay/
-        ├── Arduino_Relay.ino
+          └──  Arduino_Relay.ino
 ```
 
 ## Bugs and feature requests
