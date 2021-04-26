@@ -67,9 +67,7 @@ All HTML and CSS should conform to the [Code Guide](https://github.com/mdo/code-
 
 
 
-## Creators
- 
-**Creator 1**
+## Creator
 
 - <https://github.com/ascoolarobban>
 
