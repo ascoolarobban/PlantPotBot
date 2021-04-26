@@ -45,14 +45,15 @@ work in progress
 Some text
 
 ```text
-folder1/
-└── folder2/
-    ├── folder3/
-    │   ├── file1
-    │   └── file2
-    └── folder4/
-        ├── file3
-        └── file4
+FlowerPotBot/
+└── FlowerPotBot/
+    ├── blomkruka_esp32.ino
+    ├── blomkruka_esp32.ino
+    ├── blomkruka_esp32.ino       
+    │    
+    │   
+    └── Arduino_Relay/
+        ├── Arduino_Relay.ino
 ```
 
 ## Bugs and feature requests
@@ -72,7 +73,8 @@ All HTML and CSS should conform to the [Code Guide](https://github.com/mdo/code-
 - <https://github.com/ascoolarobban>
 
 ## Thanks to
-https://linkedin.com/in/daniel-johansson-4b099219a
+https://github.com/CodeByMini
+https://github.com/elinlindbergs
 https://github.com/Conhan93
 
 
