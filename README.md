@@ -17,7 +17,7 @@
 
 ## Table of contents
 
-- [Quick start](#quick-start)
+- [About](#quick-start)
 - [Status](#status)
 - [What's included](#whats-included)
 - [Bugs and feature requests](#bugs-and-feature-requests)
@@ -27,7 +27,7 @@
 - [Copyright and license](#copyright-and-license)
 
 
-## Quick start
+## About
 
 The project consists of:
 
@@ -42,7 +42,7 @@ work in progress
 
 ## What's included
 
-Some text
+Files
 
 ```text
 FlowerPotBot/
