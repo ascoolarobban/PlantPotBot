@@ -31,9 +31,9 @@
 
 The project consists of:
 
-- Esp32.ino
-- Arduino.ino
-- esp8266.ino
+- Esp32
+- Arduino uno
+- esp8266
 -raspberry pi zero w (MQTT)
 
 ## Status
@@ -61,9 +61,7 @@ Have a bug or a feature request? Please first read the [issue guidelines](https:
 
 ## Contributing
 
-Please read through our [contributing guidelines](https://flowerpotbot/blob/master/CONTRIBUTING.md). Included are directions for opening issues, coding standards, and notes on development.
-
-Moreover, all HTML and CSS should conform to the [Code Guide](https://github.com/mdo/code-guide), maintained by [Main author](https://github.com/ascoolarobban).
+All HTML and CSS should conform to the [Code Guide](https://github.com/mdo/code-guide), maintained by [Main author](https://github.com/ascoolarobban).
 
 
 
