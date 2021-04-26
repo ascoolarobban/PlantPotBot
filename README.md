@@ -57,7 +57,7 @@ folder1/
 
 ## Bugs and feature requests
 
-Have a bug or a feature request? Please first read the [issue guidelines](https://reponame/blob/master/CONTRIBUTING.md) and search for existing and closed issues. If your problem or idea is not addressed yet, [please open a new issue](https://reponame/issues/new).
+Have a bug or a feature request? Please first read the [issue guidelines](https://flowerpotbot/blob/master/CONTRIBUTING.md) and search for existing and closed issues. If your problem or idea is not addressed yet, [please open a new issue](https://reponame/issues/new).
 
 ## Contributing
 
@@ -68,7 +68,7 @@ Moreover, all HTML and CSS should conform to the [Code Guide](https://github.com
 
 
 ## Creators
-
+ 
 **Creator 1**
 
 - <https://github.com/ascoolarobban>
