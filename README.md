@@ -71,10 +71,10 @@ Just HMU
 - <https://github.com/ascoolarobban>
 
 ## Thanks to
-https://github.com/CodeByMini \n
-https://github.com/elinlindbergs \n
-https://github.com/Conhan93 \n
-https://github.com/inputdejv \n
+https://github.com/CodeByMini 
+https://github.com/elinlindbergs 
+https://github.com/Conhan93 
+https://github.com/inputdejv 
 
 
 ## Copyright and license
