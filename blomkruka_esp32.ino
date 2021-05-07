@@ -73,6 +73,8 @@ void loop()
 
   Moisture = analogRead(M_Sensor);
   moistPercent = map(Moisture, dryValue, wetValue, 0, 100);
+  client.publish(mqttMoist, String (moistPercent).c_str(), true);
+  
 
   Serial.println(Moisture);
   delay(1000);
@@ -110,8 +112,10 @@ void loop()
 
     Serial.println("WET");
     Serial.print(moistPercent);
+    client.publish(mqttMoist, String (moistPercent).c_str(), true);
     Serial.println("%");
 
   }
+  delay(60000);
 
 }
